@@ -19,7 +19,6 @@ Additional hotspots and their metadata feature definitions can be provided throu
 
 Please suggest any other features that could be of interest.
 
-Currently supported networks
-============================
+**Currently supported networks**
 
 TBA.
