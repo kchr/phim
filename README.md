@@ -5,7 +5,9 @@ Public Hotspot Internet Manager
 
 CLI application for searching and managing sessions of known public wifi hotspots. 
 
-The main idea is to liberate the user from having to use web interfaces to get access to public wifi networks, of the types often found at airports, trains, buses and shopping malls.
+The main idea is to liberate the user from having to use web interfaces to get access to public wifi networks, of the types often found at airports, trains, buses and shopping malls. 
+
+Additional hotspot and their metadata feature definitions can be provided through a simple plugin framework.
 
 **Feature list**
 
